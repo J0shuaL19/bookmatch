@@ -3,7 +3,7 @@
 **Authors:** Anthony Minichillo and Alex Dat Huynh
 **Class:** (https://johnguerra.co/classes/webDevelopment_online_fall_2026/)
 **Live site:** https://bookmatch-s30r.onrender.com
-**Demo video:**
+**Demo video:** "A small error. Forgot to add video link."
 **Design document:** (https://docs.google.com/document/d/1ZpYkkq1hIhD9Z7agO7sLHxjBgsseo7N8Hi_Clo_r4_k/edit?usp=sharing)
 **Slides:** https://docs.google.com/presentation/d/1ZRIAHeM5Lm_vzOaH-8-nujYVmJbhMreVqTZZnM36LCs/edit?usp=sharing
 
