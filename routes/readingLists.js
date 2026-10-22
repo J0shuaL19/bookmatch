@@ -132,7 +132,7 @@ router.put('/:id', async (req, res) => {
 // CREATE (add book to list)
 router.post('/:id/books', async (req, res) => {
   try {
-    const { bookId } = req.body;
+    const { bookId } = req.body;//“Nice touch preventing duplicate books in a single database update.”
     if (!ObjectId.isValid(req.params.id) || !ObjectId.isValid(bookId)) {
       return res.status(400).json({ error: 'Invalid list or book id' });
     }
