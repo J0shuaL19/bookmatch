@@ -33,7 +33,7 @@ function pickFields(body) {
 }
 
 function escapeRegex(text) {
-  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');//“Nice job handling special characters in search text. That makes search more reliable.”
 }
 
 // READ (list + search + filters)
