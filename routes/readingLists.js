@@ -164,7 +164,7 @@ router.post('/:id/books', async (req, res) => {
     }
 
     res.status(201).json({ added: true });
-  } catch (err) {
+  } catch (err) { // this error handling is great
     res.status(500).json({ error: err.message });
   }
 });
